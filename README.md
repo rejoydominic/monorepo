@@ -2,6 +2,12 @@
 
 This is an official starter Turborepo.
 
+```
+cd monorepo 
+npx turbo dev
+```
+
+
 ## Using this example
 
 Run the following command:
